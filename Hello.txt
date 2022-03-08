@@ -1,1 +1,7 @@
-Hello sir How are you
+public class Hello
+{
+    public static void main(String[] args)
+    {
+      System.out.println("Hello Sir How Are You");
+    }
+}
